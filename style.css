@@ -1,0 +1,83 @@
+/*Navbar */
+.sr-nav {
+  justify-content: flex-end;
+  flex: 1;
+}
+/*Header*/
+.header-color{
+  background-color :#275D6B;
+}
+.logo-img {
+  background-color: transparent;
+}
+.sr-name{
+      padding-left: 10px;
+}
+/*Section*/
+.section-color{
+  background-color: #EBF2F4;
+}
+.section-modif{
+  margin-left: 40px;
+  margin-top: 2rem;
+  margin-right: 40px;
+}
+/* Footer*/
+.footer-color{
+  background-color:#275D6B;
+}
+footer {
+  padding-top: 50px;
+}
+footer .card {
+  height: 100%;
+}
+footer .cardbody-color{
+  background:#EBF2F4;
+}
+.desc{
+  padding-top: 12px;
+}
+/*Portfolio */
+.cards-place{
+  margin-left: 0px;
+}
+.card-spacing{
+  padding-top: 35px;
+}
+.card {
+
+  height: 100%;
+}
+.space{
+  margin-bottom: 30px;
+}
+/*Contact*/
+.text-spacing{
+  margin-top: 40px;
+}
+
+/*icons*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.sr-social-icon {
+  background-color: transparent;
+  color: black;
+  padding: 20px;
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+.brief-desc {
+  margin-top: 30px;
+}
